@@ -2,7 +2,15 @@
   "name": "pdf-password",
   "version": "0.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "decrypt",
+    "encrypt",
+    "pdf",
+    "password",
+    "compress",
+    "gs",
+    "ghostscript"
+  ],
   "author": "",
   "license": "ISC",
   "main": "dist/index.js",
