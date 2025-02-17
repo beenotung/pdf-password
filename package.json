@@ -17,6 +17,14 @@
     "url": "https://beeno-tung.surge.sh"
   },
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/pdf-password.git"
+  },
+  "homepage": "https://github.com/beenotung/pdf-password#readme",
+  "bugs": {
+    "url": "https://github.com/beenotung/pdf-password/issues"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
