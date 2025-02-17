@@ -1,6 +1,6 @@
 {
   "name": "pdf-password",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Encrypt, Decrypt and Compress PDF files using Ghostscript",
   "keywords": [
     "decrypt",
